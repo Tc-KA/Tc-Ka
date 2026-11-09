@@ -9,16 +9,14 @@
 <a href="https://github.com/Tc-KA?tab=repositories">
   <img src="https://img.shields.io/badge/REPOS-Tc--KA-0f172a?style=for-the-badge&logo=github&logoColor=60a5fa&labelColor=000000" alt="Repositories"/>
 </a>
+<img src="https://img.shields.io/badge/LOCATION-Москва%20%C2%B7%20UTC%2B3-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=000000" alt="Location"/>
 <img src="https://img.shields.io/badge/STATUS-building%20things%20that%20don't%20spy%20on%20me-2563eb?style=for-the-badge&labelColor=000000" alt="Status"/>
 <img src="https://img.shields.io/badge/FOCUS-LLM%20%C2%B7%20FastAPI%20%C2%B7%20Desktop-7c3aed?style=for-the-badge&labelColor=000000" alt="Focus"/>
 
 <br/>
 
-<a href="mailto:<your@email.com>">
+<a href="mailto:egor.tcka@protonmail.com">
   <img src="https://img.shields.io/badge/EMAIL-say%20hi-f43f5e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
-</a>
-<a href="https://t.me/<your_username>">
-  <img src="https://img.shields.io/badge/TELEGRAM-@<your__username>-26a5e4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Telegram"/>
 </a>
 
 </div>
@@ -34,7 +32,8 @@
 name:       Egor
 handle:     Tc-KA
 role:       Software Engineer
-location:   [redacted] · UTC+<X>
+location:   Москва · UTC+3
+email:      egor.tcka@protonmail.com
 philosophy: "local-first · human-readable storage · no cloud required"
 
 # ─── currently ─────────────────────────────────────────────────────────
